@@ -71,9 +71,12 @@ html {
     margin-bottom: 15px;
 }
 
-.form__name, .form__lastname,
-.form__input-email, .form__input-phone,
-.form__text, .form__input-button {
+.form__name,
+.form__lastname,
+.form__input-email,
+.form__input-phone,
+.form__text,
+.form__input-button {
     outline: none;
     border: none;
     border-bottom: 1px solid var(--primary-color);
